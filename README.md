@@ -1,8 +1,8 @@
 # EX-4-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
-# NAME - ARULARASI 
-# REG NO - 212223100002
+## NAME - ARULARASI 
+## REG NO - 212223100002
 
-## Aim:
+## AIM:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
 ## ALGORITHM: 
